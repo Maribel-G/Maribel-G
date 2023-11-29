@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maribel-G
 - 👀 I’m interested in robotics and software engineering
-- 🌱 I’m currently taking CS 5300 Advanced Algorithm Design and Analysis along with CS 5800 Software Engineering
+- 🌱 I’m currently taking CS 5700 Human Computer Interaction
 - 💞️ I’m looking to collaborate on ... not sure yet. But am open to ideas.
 - 📫 How to reach me via email: mgershman@cpp.edu
 
